@@ -8,7 +8,7 @@ Desktop-first futuristic dashboard UI for a system-level gaming network optimize
 - Recharts
 - Electron-ready entrypoints (`electron/`)
 
-### Local run
+### Local run(install all the dependencies before this)
 ```bash
 npm install
 npm run dev
